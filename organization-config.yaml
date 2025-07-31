@@ -4,6 +4,7 @@ organizationalUnits:
   - name: Infrastructure
   - name: Workloads
   - name: Workloads/Sandbox
+  - name: Workloads/Stage
 serviceControlPolicies: []
 taggingPolicies: []
 chatbotPolicies: []
