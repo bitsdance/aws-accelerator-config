@@ -3,6 +3,7 @@ organizationalUnits:
   - name: Security
   - name: Infrastructure
   - name: Workloads
+  - name: Workloads/sandbox
 serviceControlPolicies: []
 taggingPolicies: []
 chatbotPolicies: []
